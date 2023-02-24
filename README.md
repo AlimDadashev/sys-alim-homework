@@ -1,3 +1,4 @@
+![screenshot](https://github.com/AlimDadashev/sys-alim-homework/blob/3c806ae10455ed09eb5c4fd6dc2cf8a96075e466/img/screen%20tables.png)
 ![skreeshot](img/screen tables.png)
 test
 # Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
