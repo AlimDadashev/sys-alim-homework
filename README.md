@@ -49,10 +49,10 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
 
-![Скриншот1](https://github.com/AlimDadashev/sys-alim-homework/blob/afba80ba89ee4c7fe525ca178a0f64921ab9e88f/img/Screenshot%202023-02-24%20at%2018-05-47%2012.2%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL_DML)%20-%20%D0%90%D0%BB%D0%B8%D0%BC%20%D0%94%D0%B0%D0%B4%D0%B0%D1%88%D0%B5%D0%B2.png)
-
-
-
+![Скриншот1](https://github.com/AlimDadashev/sys-alim-homework/blob/e80cacbb50088e48e11766e118e692175a43546f/img/Screenshot%202023-02-24%20at%2018-05-47%2012.2%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL_DML)%20-%20%D0%90%D0%BB%D0%B8%D0%BC%20%D0%94%D0%B0%D0%B4%D0%B0%D1%88%D0%B5%D0%B2.png)
+![Скриншот2](https://github.com/AlimDadashev/sys-alim-homework/blob/e80cacbb50088e48e11766e118e692175a43546f/img/Screenshot%202023-02-24%20at%2018-06-04%2012.2%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL_DML)%20-%20%D0%90%D0%BB%D0%B8%D0%BC%20%D0%94%D0%B0%D0%B4%D0%B0%D1%88%D0%B5%D0%B2.png)
+![Скриншот3](https://github.com/AlimDadashev/sys-alim-homework/blob/e80cacbb50088e48e11766e118e692175a43546f/img/Screenshot%202023-02-24%20at%2018-06-12%2012.2%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL_DML)%20-%20%D0%90%D0%BB%D0%B8%D0%BC%20%D0%94%D0%B0%D0%B4%D0%B0%D1%88%D0%B5%D0%B2.png)
+![Скриншот4](https://github.com/AlimDadashev/sys-alim-homework/blob/e80cacbb50088e48e11766e118e692175a43546f/img/Screenshot%202023-02-24%20at%2018-06-21%2012.2%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL_DML)%20-%20%D0%90%D0%BB%D0%B8%D0%BC%20%D0%94%D0%B0%D0%B4%D0%B0%D1%88%D0%B5%D0%B2.png)
 
 
 
