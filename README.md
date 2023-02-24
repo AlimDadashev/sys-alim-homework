@@ -1,4 +1,4 @@
-(img/screen tables.png)
+![skreeshot](img/screen tables.png)
 test
 # Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
 
