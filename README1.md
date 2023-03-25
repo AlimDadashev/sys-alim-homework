@@ -23,11 +23,13 @@
 
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
 
-https://github.com/AlimDadashev/sys-alim-homework/blob/62e6f1b00c08f74d3b7751c33f3eeb29d4ffc6f1/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-21%2000-08-45.png
+https://github.com/AlimDadashev/sys-alim-homework/blob/8b7547861fb6876e76cb8e4abfddde9390118620/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-25%2023-16-14.png
 
 ### Задание 2
 
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года **включительно** и стоимость которых превышает 10.00.
+
+https://github.com/AlimDadashev/sys-alim-homework/blob/8b7547861fb6876e76cb8e4abfddde9390118620/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-26%2000-51-31.png
 
 ### Задание 3
 
