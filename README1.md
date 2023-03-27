@@ -29,7 +29,8 @@ https://github.com/AlimDadashev/sys-alim-homework/blob/8b7547861fb6876e76cb8e4ab
 
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года **включительно** и стоимость которых превышает 10.00.
 
-https://github.com/AlimDadashev/sys-alim-homework/blob/1ebc6a5b8ee1dd186f9f37147097356222c7f121/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-26%2023-31-47.png
+https://github.com/AlimDadashev/sys-alim-homework/blob/089dc0e724a1e55c8cc38c3b9136c26d3e487a5c/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-28%2000-20-03.png
+
 ### Задание 3
 
 Получите последние пять аренд фильмов.
