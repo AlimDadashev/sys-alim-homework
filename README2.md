@@ -40,8 +40,9 @@ https://github.com/AlimDadashev/sys-alim-homework/blob/77a4366d31c63346ac253669e
 
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
-https://github.com/AlimDadashev/sys-alim-homework/blob/dd34d4e60fc4d7e3694a06941f13d3b49414b9b7/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-19%2000-40-25.png
+https://github.com/AlimDadashev/sys-alim-homework/blob/a20911a16ba94c1ee5c1078ecf38e1238ed42785/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-24%2023-57-32.png
 
+https://github.com/AlimDadashev/sys-alim-homework/blob/a20911a16ba94c1ee5c1078ecf38e1238ed42785/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-24%2023-52-19.png
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
